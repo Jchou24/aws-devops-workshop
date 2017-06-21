@@ -85,6 +85,7 @@
       <h1>Bespoke Suits for Dogs</h1>
       <p><i>Whatever you are, be a good one</i></p>
       <p>Hiiiiii JC</p>
+      <p>COOOOOOOOOL</p>
     </div>
     <div class="page-header">
       <h1>Our Products</h1>
